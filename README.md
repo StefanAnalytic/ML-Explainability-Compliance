@@ -1,4 +1,4 @@
-# 🏛️ Modul 8: Explainability & Compliance (Anti-Blackbox)
+Explainability & Compliance (Anti-Blackbox)
 
 ## 📌 Business Value (BLUF)
 Dieses Microservice-Backend liefert 100% DSGVO-konforme (Art. 22) Machine Learning Vorhersagen (z.B. für Kreditvergabe). Es entkoppelt die blitzschnelle Vorhersage (`/predict`) von der rechenintensiven Compliance-Erklärung (`/explain`), um Systemabstürze zu verhindern und Ausfallsicherheit zu garantieren.
